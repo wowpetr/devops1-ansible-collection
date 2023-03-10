@@ -1,0 +1,5 @@
+---
+  - name: Copy text file
+    create_file:
+      path: "{{ copy_file_path }}"
+      content: "{{ copy_file_content }}"

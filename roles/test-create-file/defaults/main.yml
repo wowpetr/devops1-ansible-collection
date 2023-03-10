@@ -1,0 +1,3 @@
+---
+copy_file_path: "~/example.txt"
+copy_file_content: "Created with wowpetr.devops1.create_file ansible collection\n"

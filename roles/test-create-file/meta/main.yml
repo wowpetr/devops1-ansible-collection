@@ -1,0 +1,18 @@
+galaxy_info:
+  author: Petr Losev
+  description: Test for create_file module
+  company: Netology
+
+  license: MIT
+
+  min_ansible_version: 2.1
+
+  platforms:
+  - name: Centos
+    versions:
+    - 7
+    - 8
+
+  galaxy_tags: []
+
+dependencies: []
